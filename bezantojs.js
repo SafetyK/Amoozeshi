@@ -26,6 +26,7 @@ alert(typeof value);*/
 } else {
   alert("Harry Maguire XD");
 */
+
 var UN1 = prompt("enter first number ");
 var UN2 = prompt("enter second number");
 //var UN3 = prompt("enter third number ");
@@ -45,9 +46,9 @@ var method1 = Res;
 var methode2 = Res2;
 var methode3 = zarbres;
 
-if ((metod = method1)) {
+if (metod == method1) {
   alert(method1);
-} else if ((metod = methode2)) {
+} else if (metod == methode2) {
   alert(methode2);
 } else {
   alert(methode3);
